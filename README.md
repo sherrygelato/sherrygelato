@@ -28,7 +28,7 @@
 
 ```
 “Communication and empathy,
-the value of New, Difference, and being Together.
+New, Difference, and being Together's values.
 And continuing to make an effort to improve my coding."
 ```
 
