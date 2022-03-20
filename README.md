@@ -1,10 +1,4 @@
-# sherrygelato
-
-### Contact me
-<p>
-  <a href="https://sherrygelato.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:sherrygelato.lab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sherrygelato.lab@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+# Hi, I'm Sherry!
 
 ### Platforms & Languages & Tools
 <p align="left">
@@ -19,8 +13,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
+### Projects
+- .
+
 ### Stats and Most Used Langauges
 <div align=left>
-  <img src="https://github-readme-stats.vercel.app/api?username=sherrygelato&hide=stars&count_private=true&bg_color=030B5A&title_color=fff&text_color=fff" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherrygelato&langs_count=4&layout=compact&bg_color=030B5A&title_color=fff&text_color=fff" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=sherrygelato&theme=vue-dark&show_icons=true" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherrygelato&langs_count=4&layout=compact&bg_color=00A98F&title_color=fff&text_color=fff" height="150px">
 </div>
+
+### Contact me
+<p>
+  <a href="https://sherrygelato.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:sherrygelato.lab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sherrygelato.lab@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/seeeeeui"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+</p>
