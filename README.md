@@ -15,5 +15,5 @@
 ### Stats and Most Used Langauges
 <div align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=sherrygelato&hide=stars&count_private=true&bg_color=030B5A&title_color=fff&text_color=fff" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherrygelato&langs_count=4&layout=compact&bg_color=030B5AC&title_color=fff&text_color=fff" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherrygelato&langs_count=4&layout=compact&bg_color=030B5A&title_color=fff&text_color=fff" height="150px">
 </div>
