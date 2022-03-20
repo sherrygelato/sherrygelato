@@ -1,6 +1,5 @@
-# Hi, I'm Sherry!
+# Hi, I'm Sherry :)
 
-### Platforms & Languages & Tools
 <p align="left">
   <a align="right" href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsherrygelato%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%237FEBB8&title=hits&edge_flat=false"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -12,9 +11,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
-
-### Projects
-- .
 
 ### Stats and Most Used Langauges
 <div align=left>
