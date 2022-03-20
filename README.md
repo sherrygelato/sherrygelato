@@ -22,5 +22,5 @@
 <p>
   <a href="https://sherrygelato.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:sherrygelato.lab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sherrygelato.lab@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/seeeeeui"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+  <a href="https://instagram.com/seeeeeui"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/seeeeeui" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </p>
