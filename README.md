@@ -24,7 +24,13 @@
 - I’m a junior developer.
 - I’m currently learning Python, Data Analysis, ML/DL.
 - I passed through in International Economics and Trades at Renmin University in Beijing, China.
-- Fun fact: Playing cello concerto No.1 in C major of Haydn, Watching Soccer or basketball.
+- Fun fact: Playing cello concerto No.1 in C major of Haydn, Watching Soccer or basketball events.
+
+```
+“Communication and empathy,
+the value of New, Difference, and being Together.
+And continuing to make an effort to improve my coding."
+```
 
 ### 📌 Stats and Most Used Langauges
 <div align=left>
