@@ -34,9 +34,9 @@
   <img src= "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/339d3d85-de8e-401f-987d-21b389ca7194/KakaoTalk_20210811_141205728.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220321T003102Z&X-Amz-Expires=86400&X-Amz-Signature=d92b6d202d72314164c242078dcafe0c5c963e7740899732f63d447625c5204d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22KakaoTalk_20210811_141205728.jpg%22&x-id=GetObject" height="300px">
 
   ### ⚡ Sherry is ...
-  - I’m a `junior developer`.
+  - I’m a `junior developer` in Seoul, Korea.
   - I’m currently learning `Python`, `Data Analysis`, `ML/DL`.
-  - I passed through in International Economics and Trades at Renmin University in Beijing, China.
+  - I passed through the International Economics and Trades at Renmin University in Beijing, China.
   - Fun fact: Playing `cello` concerto No.1 in C major of Haydn, Watching `Soccer` or `basketball` events.
   
   ```
@@ -46,11 +46,15 @@
   ```
 </div>
 
+<br/> 
+
 ### 📌 Stats and Most Used Langauges
 <div align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=sherrygelato&theme=vue-dark&show_icons=true" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherrygelato&langs_count=4&layout=compact&bg_color=045F5F&title_color=fff&text_color=fff&hide=jupyter%20notebook, html" height="150px">
 </div>
+
+<br/>
 
 ### 💌 Contact me
 <p>
