@@ -36,7 +36,7 @@
   ### ⚡ Sherry is ...
   - I’m a `junior developer` in Seoul, Korea.
   - I’m currently learning `Python`, `Data Analysis`, `ML/DL`.
-  - I passed through the International Economics and Trades at Renmin University in Beijing, China.
+  - I passed through the International Economics and Trade at Renmin University in Beijing, China.
   - Fun fact: Playing `cello` concerto No.1 in C major of Haydn, Watching `Soccer` or `basketball` events.
   
   ```
