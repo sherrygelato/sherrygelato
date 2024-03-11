@@ -31,7 +31,7 @@
 <br/>
 
 <div align="left">
-  <img src= "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/339d3d85-de8e-401f-987d-21b389ca7194/KakaoTalk_20210811_141205728.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220321%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220321T003102Z&X-Amz-Expires=86400&X-Amz-Signature=d92b6d202d72314164c242078dcafe0c5c963e7740899732f63d447625c5204d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22KakaoTalk_20210811_141205728.jpg%22&x-id=GetObject" height="300px">
+  <img src= "https://file.notion.so/f/f/359f186e-a608-4ad3-b986-46856b18c917/339d3d85-de8e-401f-987d-21b389ca7194/KakaoTalk_20210811_141205728.jpg?id=aa1e6904-7aca-4176-8c6b-ec71aaa5d0e2&table=block&spaceId=359f186e-a608-4ad3-b986-46856b18c917&expirationTimestamp=1710230400000&signature=E-XbjAC4Rv1oFTSuuZ8KfqkeGX6LXWrlJXZKCY7MpIE&downloadName=KakaoTalk_20210811_141205728.jpg" height="300px">
 
   ### ⚡ Sherry is ...
   - I’m a `junior developer` in Seoul, Korea.
