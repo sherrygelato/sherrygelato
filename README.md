@@ -46,6 +46,7 @@
   ```
 </div>
 
+<!--
 <br/> 
 
 ### 📌 Stats and Most Used Langauges
@@ -55,6 +56,7 @@
 </div>
 
 <br/>
+ -->
 
 ### 💌 Contact me
 <p>
