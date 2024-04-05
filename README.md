@@ -31,7 +31,7 @@
 <br/>
 
 <div align="left">
-  <img src= "https://file.notion.so/f/f/359f186e-a608-4ad3-b986-46856b18c917/339d3d85-de8e-401f-987d-21b389ca7194/KakaoTalk_20210811_141205728.jpg?id=aa1e6904-7aca-4176-8c6b-ec71aaa5d0e2&table=block&spaceId=359f186e-a608-4ad3-b986-46856b18c917&expirationTimestamp=1710230400000&signature=E-XbjAC4Rv1oFTSuuZ8KfqkeGX6LXWrlJXZKCY7MpIE&downloadName=KakaoTalk_20210811_141205728.jpg" height="300px">
+  <img src= "https://file.notion.so/f/f/359f186e-a608-4ad3-b986-46856b18c917/339d3d85-de8e-401f-987d-21b389ca7194/KakaoTalk_20210811_141205728.jpg?id=aa1e6904-7aca-4176-8c6b-ec71aaa5d0e2&table=block&spaceId=359f186e-a608-4ad3-b986-46856b18c917&expirationTimestamp=1712390400000&signature=0uyvfZHwKgqM8jhYMkYhA3Zp-wiyUMpxwFA5K5OPR1A&downloadName=KakaoTalk_20210811_141205728.jpg" height="300px">
 
   ### ⚡ Sherry is ...
   - I’m a `junior developer` in Seoul, Korea.
