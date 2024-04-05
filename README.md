@@ -58,10 +58,14 @@
 <br/>
  -->
 
+### 👩🏻‍💻 More About Sherry...
+<p>
+  <a href="https://sherrygelato.notion.site/29d12c8644bd431eb89f377cd637e6b8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</p>
+
 ### 💌 Contact me
 <p>
   <a href="https://sherrygelato.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://sherrygelato.notion.site/29d12c8644bd431eb89f377cd637e6b8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="mailto:sherrygelato.lab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sherrygelato.lab@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://instagram.com/seeeeeui"><img src="http://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&link=https://instagram.com/seeeeeui" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 </p>
