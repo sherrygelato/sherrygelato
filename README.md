@@ -5,8 +5,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Spring Boot-64C931?style=flat-square&logo=Spring-Boot&logoColor=white"/>
@@ -35,11 +35,13 @@
 <br/>
 
 <div align="left">
+  
   ### ⚡ Sherry is ...
   - I’m a `junior developer` in Seoul, Korea.
   - I’m currently learning `Python`, `Data Analysis`, `ML/DL`.
   - I passed through the International Economics and Trade at Renmin University in Beijing, China.
   - Fun fact: Playing `cello` concerto No.1 in C major of Haydn, Watching `Soccer` or `basketball` events.
+
   
   ```
   “Communication and empathy,
