@@ -6,14 +6,18 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Spring Boot-64C931?style=flat-square&logo=Spring-Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
@@ -31,8 +35,6 @@
 <br/>
 
 <div align="left">
-  <img src= "https://file.notion.so/f/f/359f186e-a608-4ad3-b986-46856b18c917/339d3d85-de8e-401f-987d-21b389ca7194/KakaoTalk_20210811_141205728.jpg?id=aa1e6904-7aca-4176-8c6b-ec71aaa5d0e2&table=block&spaceId=359f186e-a608-4ad3-b986-46856b18c917&expirationTimestamp=1712390400000&signature=0uyvfZHwKgqM8jhYMkYhA3Zp-wiyUMpxwFA5K5OPR1A&downloadName=KakaoTalk_20210811_141205728.jpg" height="300px">
-
   ### ⚡ Sherry is ...
   - I’m a `junior developer` in Seoul, Korea.
   - I’m currently learning `Python`, `Data Analysis`, `ML/DL`.
