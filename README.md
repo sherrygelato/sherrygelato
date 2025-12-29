@@ -80,7 +80,5 @@
 
 ### 💌 Contact me
 <p>
-  <a href="https://sherrygelato.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://velog.io/@sherrygelato" target="_blank"><img src="https://img.shields.io/badge/Velog-79e5cb?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:sherrygelato.lab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
