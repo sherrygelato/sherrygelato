@@ -74,11 +74,11 @@
  -->
 
 ### 👩🏻‍💻 More About Sherry...
-<p>
+<!-- <p>
   <a href="https://sherrygelato.notion.site/29d12c8644bd431eb89f377cd637e6b8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-</p>
+</p> -->
 
 ### 💌 Contact me
-<p>
+<!-- <p>
   <a href="mailto:sherrygelato.lab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+</p> -->
